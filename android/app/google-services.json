@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681234657436",
+    "project_id": "greprep-3b43c",
+    "storage_bucket": "greprep-3b43c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681234657436:android:288e80b5aa289d27677d59",
+        "android_client_info": {
+          "package_name": "com.bansal.gre_prep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681234657436-0nsl57mfbih2a26j1db01qjjjnguu8o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9iFgFZycI4cBg9VqO_ySN1nVd0WpK0EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681234657436-0nsl57mfbih2a26j1db01qjjjnguu8o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
